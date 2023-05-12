@@ -9,6 +9,7 @@ Features:
 - Ao clicar em um usuário da lista, é feito a duas requisições de API, a de detalhes do usuário e a lista de repositórios, e assim chamando a próxima tela.
 - Na tela inicial, possui um botão de pesquisa no canto superior direito, para procurar por um username específico do GitHub.
 - A tela do usuário possui um Header, com detalhes importantes do usuário e logo abaixo a lista de repositórios.
+- Toda a construção de layout das telas foram através de ViewCode, usando o AutoLayout.
 - O projeto foi construido com arquitetura MVVM.
 - Foi usado apenas ferramentas nativas, dessa forma não é preciso instalar dependências para executar.
 
